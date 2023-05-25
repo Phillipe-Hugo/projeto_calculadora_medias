@@ -108,6 +108,11 @@ table td img {
     header h1 {
         font-size: 32px;
     }
+    .container{
+        
+        width: 100%;
+        margin: 0 auto;
+    }
 
     form {
         flex-direction: column;
@@ -131,6 +136,11 @@ table td img {
         max-width: 960px;
         width: 100%;
         margin: 0 auto;
-
+        
+    }
+    .container{
+        
+        width: 100%;
+        margin: 0 auto;
     }
 }
